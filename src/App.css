@@ -1,0 +1,12 @@
+body {
+    direction: rtl; /* راست‌چین کردن متن */
+    text-align: right; /* تراز کردن متن به سمت راست */
+  }
+
+@font-face {
+    font-family: primay;
+    src: url('./assets/font/Kalameh-Regular.ttf');
+}  
+
+
+  
