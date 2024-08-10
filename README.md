@@ -1,6 +1,6 @@
 # Digikala
 
-**whit add to cart, filtering & local storage **
+** Whit Add To Cart, Filtering & Local storage **
 
 
 ![1](https://github.com/user-attachments/assets/e6cdb82c-e512-494e-8524-175a9b7c47bc)
