@@ -15,7 +15,7 @@
 
 - Created - 2024-03
 
-- Technologies Used - Html , Tailwind ,React,Axios,React Icon
+- Technologies Used - Html , Tailwind ,React,Axios,React Icon, Swiper
 
 
 - Role - Frontend
