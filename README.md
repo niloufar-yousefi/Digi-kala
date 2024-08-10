@@ -3,7 +3,7 @@
 **whit add to cart,filtering & local storage **
 
 
-![architect 1](https://github.com/niloufar-yousefi/Rethink-architecture-site/assets/156951582/e2aef283-a4c2-486f-a5ec-be66b850b9f7)
+https://github.com/user-attachments/assets/69097131-1e0e-4adf-8b49-332c832fb2b0
 ![architect 2](https://github.com/niloufar-yousefi/Rethink-architecture-site/assets/156951582/ce9e9371-fe61-4c4e-9bfb-47a9b0717884)
 ![architect 3](https://github.com/niloufar-yousefi/Rethink-architecture-site/assets/156951582/c621a21e-2224-423f-bfea-595a320f95f2)
 
